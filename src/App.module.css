@@ -1,0 +1,18 @@
+.app {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: bold;
+  color: #222;
+  margin-bottom: 30px;
+}
+
+.chartsContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}

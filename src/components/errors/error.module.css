@@ -1,0 +1,16 @@
+.container {
+  padding: 20px;
+  margin: 20px;
+  background-color: #fee;
+  border: 1px solid #fcc;
+  border-radius: 4px;
+}
+
+.title {
+  color: #c00;
+  margin-bottom: 10px;
+}
+
+.message {
+  color: #800;
+}

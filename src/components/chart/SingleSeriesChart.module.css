@@ -1,0 +1,21 @@
+.chart {
+  display: block;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.xAxis,
+.yAxis {
+  font-size: 12px;
+}
+
+.xAxis path,
+.xAxis line,
+.yAxis path,
+.yAxis line {
+  stroke: #666;
+}
